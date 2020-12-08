@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Praha 15 a Petrovice
-email: praha15@pirati.cz
-description: Stránka Pirátů Praha 15 a Petrovic
-keywords: Piráti Praha 15 a Petrovice, Česká pirátská strana, svoboda, demokracie, Piráti Praha 15 a Petrovic
+title: Praha 14
+email: praha14@pirati.cz
+description: Stránka Pirátů Praha 14
+keywords: Piráti Praha 4, Česká pirátská strana, svoboda, demokracie, Piráti Praha 15 a Petrovic
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://praha15.pirati.cz" # the base hostname & protocol for your site
+url: "https://praha14.pirati.cz" # the base hostname & protocol for your site
 
 administrator:
   email: jan.suchanek@gmail.com
@@ -86,9 +86,9 @@ defaults:   # defaults values for collection scope
       keywords: program, volby, 2018, komunální volby
 
 organization:
-  name: Praha 15 a Petrovice
+  name: Praha 14
   shortName: Praha 15 a Petrovice
-  email: praha15@pirati.cz
+  email: praha14@pirati.cz
   contactUid: danickova.radka
   phone: +420 728 453 911
   address: |
@@ -96,7 +96,7 @@ organization:
     120 00 Praha 2
   #residenceImg: miscellaneous.jpg
   mapLink: https://mapy.cz/s/2N7Yv
-  redmineLink: https://redmine.pirati.cz/projects/praha-15
+  redmineLink: https://redmine.pirati.cz/projects/praha-14
   dataBoxId: b2i4r6j
   transparentAccount: 2100048174/2010
   transparentAccountSpecificSymbol: 110110
@@ -119,7 +119,7 @@ calendar:
   #page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=b5bl4lv8m2fill0tho6esj2avs%40group.calendar.google.com&amp;color=%23B1365F&amp;src=b5bl4lv8m2fill0tho6esj2avs%40group.calendar.google.com&amp;color=%238D6F47&amp;ctz=Europe%2FPrague
 
 facebook:
-  profilePage: https://www.facebook.com/pirati.praha15/
+  profilePage: https://www.facebook.com/pirati.praha14/
   loadSDK: true
   appId: 1526197851008996
 
@@ -128,13 +128,13 @@ facebook:
 #  loadSDK: true
 
 instagram:
-  profilePage: https://www.instagram.com/piratipraha15/
+  profilePage: https://www.instagram.com/piratipraha14/
 
 #forum:
 #  page: https://forum.pirati.cz/
 
 github:
-  url: https://github.com/pirati-web/praha15.pirati.cz/
+  url: https://github.com/pirati-web/praha14.pirati.cz/
   branch: master
 
 #
