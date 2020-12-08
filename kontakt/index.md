@@ -1,24 +1,18 @@
 ---
 layout: contacts
-description: Pirátská strana v XY je otevřená a ráda přivítá dobrovolníky a odpoví na dotazy kritiků.
-keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
-# Pokud nechcete, aby se zobrazovalo kontaktní místo, můžete odkomentovat následující řádek:
-# noresidence: yes
-contentSize: default
-# Pokud chcete aby obsah a tabulka kontaktů měly stejné proporce, můžete použít:
-# contentSize: even
+description: Piráti Praha 15 je sdružení otevřené činorodým lidem, rádi přivítáme nové příznivce a dobrovolníky, kterým Praha 15 leží na srdci.
+keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou, pirati praha 15, praha
+residence: yes #vyplňte pokud chcete přidat adresu nejbližšího pice
 ---
 
-## Přidejte se
+<div class="o-section-header o-section-header--indented">
+  <h1 class="t-h2-alt">Přidejte se</h1>
+</div>
 
-Zajámá vás co piráti dělají? Ozvěte se Jakubu Pirátovy nebo přijďte k nám
-na schůzi kterou pořádáme v XY.
+Zajímá vás, co Piráti dělají a jak? [Ozvěte se nám](mailto:praha15@pirati.cz) nebo přijďte k nám na otevřenou schůzi. Pořádáme je v pravidelných měsíčních intervalech, lokalita je vždy upřesněna, sledujte náš [Facebook](https://www.facebook.com/piratipraha15) .
 
-Chcete přístup k pirátskym systémum? Regitrujte se na nalodění. TODO odkaz.
+Budeme rádi za všechny vaše náměty nebo připomínky.
 
-Financí dary můžete posílat na [dary](https://dary.pirati.cz).
-Pokud chcete darovat přimo naší MS poradtě se s XY
+* <a class="c-emphasized-anchor" href="{{ site.facebook.profilePage }}">Sledujte nás na Facebooku</a>
 
-
-Strany našeho kraje jsou TODO.
 

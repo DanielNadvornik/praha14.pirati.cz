@@ -1,84 +1,140 @@
 # Welcome to Jekyll!
 #
-# Toto je soubor s hlavním nastavením. Na začátku je nastavení proměných, které
-# je třeba přispůsobit si pro váš web. Později v anglicky popsané části jsou více
-# technické nastavení
-#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-title: Your awesome title
-email: info@pirati.cz
-description: >-
-  Zde potří popis webu například stránka místního sdružení. Zobrází se například ve feed/rss nebo ve výsledcích googlu.
-# dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
-keywords: piráti, česká pirátská strana, svoboda, demokracie, název města, zkratka města, místní združení,
+# Site settings
+title: Praha 15 a Petrovice
+email: praha15@pirati.cz
+description: Stránka Pirátů Praha 15 a Petrovic
+keywords: Piráti Praha 15 a Petrovice, Česká pirátská strana, svoboda, demokracie, Piráti Praha 15 a Petrovic
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://praha15.pirati.cz" # the base hostname & protocol for your site
 
 administrator:
-  email: adpal@seznam.cz # mail kam pujdou chybove vystupy
+  email: jan.suchanek@gmail.com
+
+theme: jekyll-theme-pirati
+
+sass:
+  style: compressed
+  sass_dir: _sass
+
+# Build settings
+markdown: kramdown
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-environment-variables
+
+paginate_path: "/aktuality/:num/"
+paginate: 11
+
+pagination:
+  per_page: 2
+  limit: false
+
+exclude:
+  - Dockerfile
+  - docker-compose.yml
+  - deploy_rsa_sandbox.enc
+  - deploy_rsa_sandbox.pub
+  - navod.md
+  - readme.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+
+permalink: /tiskove-zpravy/:title/
+collections:
+  people:
+    output: true
+    root: /clenove/
+    permalink: /clenove/:path/
+
+  program:
+    output: true
+    permalink: /komunalni-volby-2018/program/:path/
+
+  # Sole purpose is to create candidate lists in separate files.
+  candidatelists:
+    output: false
+
+defaults:   # defaults values for collection scope
+  -
+    scope:
+      path: "_people"
+    values:
+      layout: "person"
+      rbar:
+        - foto
+        - personContact
+        - people
+      keywords: členové, příznivci, lidé
+  -
+    scope:
+      path: "_program"
+    values:
+      layout: "program-post"
+      rbar:
+        - garant
+        - program
+      keywords: program, volby, 2018, komunální volby
 
 organization:
-  name: Jmeno skupiny používající web - př Pirástá strana
-  shortName: Název skupiny
-  contactUid: jakub.pirat
-  email: example@pirati.cz
-  phone: +420 777 123 456 789
+  name: Praha 15 a Petrovice
+  shortName: Praha 15 a Petrovice
+  email: praha15@pirati.cz
+  contactUid: danickova.radka
+  phone: +420 728 453 911
   address: |
-    Na Moráni 3,
+    Na Moráni 3
     120 00 Praha 2
-  residenceImg:
-  mapLink: https://mapy.cz/zakladni?x=14.4151543&y=50.0733415&z=18&source=addr&id=9018965&q=Na%20Mor%C3%A1ni%203
-  redmineLink: https://redmine.pirati.cz/projects
+  #residenceImg: miscellaneous.jpg
+  mapLink: https://mapy.cz/s/2N7Yv
+  redmineLink: https://redmine.pirati.cz/projects/praha-15
   dataBoxId: b2i4r6j
   transparentAccount: 2100048174/2010
+  transparentAccountSpecificSymbol: 110110
 
-# Nastavení zobrazení tabulky kontaktů.
-# Lze využít:
-# 1) předdefinované typy (organizationEmail, organizationRedmineLink, organizationPhone, organizationTransparentAccount, organizationDataBox, piratiRootWebsite)
-# 2) vlastní řádky - zde je nutné jako type dát `custom` a vyplnit `label` a `body`
 contactSummaryItems:
   - type: organizationEmail
   - type: organizationRedmineLink
   - type: organizationPhone
   - type: organizationTransparentAccount
     includeMoreLink: true
-  - type: organizationDataBox
-  - type: piratiRootWebsite
   - type: custom
-    iconClass: fa fa-envelope
-    label: Vlastní řádek tabulky
-    body: <a href="http://example.com">link</a>
+    iconClass: fa fa-facebook
+    label: Facebooková stránka
+    body: <a href="https://www.facebook.com/pirati.praha15/" target="_blank">Piráti Praha 15</a>
 
 calendar:
-  # For nice look of the calendar, make sure you get Google Calendar API key
-  # and start the app with the env var `GOOGLE_CALENDAR_APIKEY=[myapikey] bundle exec jekyll serve`.
-  # For deployment, contact website administrator to set you env variable.
-  title: Celostátní kalendář
-  id: nk73m1m89vhf5g2vojp6tnqe58@group.calendar.google.com
-  page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=nk73m1m89vhf5g2vojp6tnqe58%40group.calendar.google.com&ctz=Europe%2FPrague&amp;color=%232952A3
+  # To enable a nicer calendar, make sure you start jekyll with GOOGLE_CALENDAR_APIKEY=[apikey] bundle exec jekyll serve
+  title: Nadcházející události
+  #id: 0lmvrce8ph0t1mqa5uk4v98ui4@group.calendar.google.com
+  #page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=b5bl4lv8m2fill0tho6esj2avs%40group.calendar.google.com&amp;color=%23B1365F&amp;src=b5bl4lv8m2fill0tho6esj2avs%40group.calendar.google.com&amp;color=%238D6F47&amp;ctz=Europe%2FPrague
 
 facebook:
+  profilePage: https://www.facebook.com/pirati.praha15/
   loadSDK: true
-  #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
-  profilePage: https://www.facebook.com/ceska.piratska.strana/
   appId: 1526197851008996
 
-twitter:
-  loadSDK: true
-  profile: PiratskaStrana
+#twitter:
+#  profile: 
+#  loadSDK: true
 
 instagram:
-  profilePage: https://www.instagram.com/pirati.cz/
+  profilePage: https://www.instagram.com/piratipraha15/
 
-gplus:
-  profilePage: https://plus.google.com/u/0/+piratskastrana
-
-flicker:
-  profilePage: https://www.flickr.com/photos/pirati/
-
-forum:
-  page: https://forum.pirati.cz/
+#forum:
+#  page: https://forum.pirati.cz/
 
 github:
-  url: https://github.com/pirati-web/example.pirati.cz/
+  url: https://github.com/pirati-web/praha15.pirati.cz/
   branch: master
 
 #
@@ -119,16 +175,19 @@ collections:
   people:
     output: true
     permalink: /lide/:path/
-
   program:
     output: true
     permalink: /komunalni-volby/program/:path/
 
+
   # Sole purpose is to create candidate lists in separate files.
-  candidatelists:
-    output: false
 
 defaults:   # defaults values for collection scope
+  -
+    scope:
+      path: "_posts"
+    values:
+      layout: "post"
   -
     scope:
       path: "_people"
@@ -138,16 +197,6 @@ defaults:   # defaults values for collection scope
         - foto
         - personContact
         - people
-  -
-    scope:
-      path: "_program"
-    values:
-      layout: "program-post"
-      rbar:
-         - garant
-         - program
-
-emptyArray: []
 
 assets:
   source_maps: true
@@ -165,9 +214,11 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-5.3.1/_sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.7.1/_sass
     - assets/css
     - assets/fonts
     - assets/video
     - assets/img
+    - assets/img/posts
+    - assets/snippet
     - _sass
