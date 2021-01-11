@@ -87,7 +87,7 @@ defaults:   # defaults values for collection scope
 
 organization:
   name: Praha 14
-  shortName: Praha 15 a Petrovice
+  shortName: Praha 14
   email: praha14@pirati.cz
   contactUid: danickova.radka
   phone: +420 728 453 911
@@ -110,7 +110,7 @@ contactSummaryItems:
   - type: custom
     iconClass: fa fa-facebook
     label: Facebooková stránka
-    body: <a href="https://www.facebook.com/pirati.praha15/" target="_blank">Piráti Praha 15</a>
+    body: <a href="https://www.facebook.com/pirati.praha14/" target="_blank">Piráti Praha 14</a>
 
 calendar:
   # To enable a nicer calendar, make sure you start jekyll with GOOGLE_CALENDAR_APIKEY=[apikey] bundle exec jekyll serve
