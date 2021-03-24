@@ -2,7 +2,6 @@
 uid: jan.hamal.dvorak
 name: Jan Hamal Dvořák
 category:
-  - pms
   - zastupitele
   - clenove
 ordzas: 3
