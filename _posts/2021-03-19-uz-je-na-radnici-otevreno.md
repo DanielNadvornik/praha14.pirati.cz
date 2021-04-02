@@ -1,8 +1,10 @@
 ---
 title: Už je na radnici otevřeno?
 author: Daniel Nádvorník 
-image: posts/snemovna-ondrejprofant.jpg
-tags: [Digitalizace, Transparentnost]
+image: posts/rohancity.jpg
+tags: 
+	- Digitalizace
+	- Transparentnost
 ---
 
 **Před volbami jsme slíbili, že radnici otevřeme lidem. 
