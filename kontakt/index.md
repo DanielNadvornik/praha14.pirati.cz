@@ -1,12 +1,11 @@
 ---
 layout: contacts
 title: Kontaktní informace
-description: Pirátská strana v Praze 8 je otevřená a ráda přivítá nové členy, dobrovolníky a odpoví na vaše dotazy
+description: Pirátská strana ve Frenštátě je otevřená a ráda přivítá nové členy, dobrovolníky a odpoví na vaše dotazy
 keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
 noresidence: yes
 contactPersons:
-  - martin.sterba
-  - jan.kolator
+  - roman.jurik
 ---
  <h1>Přidejte se k nám</h1>
 
