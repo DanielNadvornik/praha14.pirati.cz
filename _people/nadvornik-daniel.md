@@ -5,7 +5,7 @@ category:
   - pms
   - zastupitele
 ordpms: 
-ordzas: 
+ordzas: people/nadvornik-daniel.jpg
 img: kyjsky-rybnik.jpg
 heroImg: 
 profession: Junior výzkumník
