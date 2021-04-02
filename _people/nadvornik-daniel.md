@@ -6,7 +6,7 @@ category:
   - zastupitele
 ordpms: 
 ordzas: 
-img: people/nadvornik-daniel.jpg
+img: kyjsky-rybnik.jpg
 heroImg: 
 profession: Junior výzkumník
 partyUid: pirati
