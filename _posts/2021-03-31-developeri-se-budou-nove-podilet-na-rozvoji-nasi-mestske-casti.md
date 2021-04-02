@@ -1,6 +1,7 @@
 ---
 title: Už je na radnici otevřeno?
 author: Daniel Nádvorník 
+authorId: nadvornik.daniel
 image: posts/rohancity.jpg
 tags: 
  - Digitalizace
