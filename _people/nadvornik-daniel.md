@@ -5,9 +5,9 @@ category:
   - pms
   - zastupitele
 ordpms: 
-ordzas: people/nadvornik-daniel.jpg
-img: kyjsky-rybnik.jpg
-heroImg: 
+ordzas: 
+img: people/nadvornik-daniel.jpg
+heroImg: kyjsky-rybnik.jpg
 profession: Junior výzkumník
 partyUid: pirati
 description: místopředseda MS Praha 14
