@@ -2,7 +2,7 @@
 uid: prager.michal
 name: Bc. Michal Prager, MBA
 category:
-
+  - zastupitele
 ordpms: 
 ordzas: 
 img: people/prager-michal.jpg

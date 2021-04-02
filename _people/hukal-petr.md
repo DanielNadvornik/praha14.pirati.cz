@@ -2,6 +2,7 @@
 uid: hukal.petr
 name: Petr Hukal
 category:
+  - zastupitele
 ordpms: 
 ordzas: 
 img: people/hukal-petr.jpg

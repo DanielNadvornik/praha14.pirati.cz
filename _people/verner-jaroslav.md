@@ -2,6 +2,7 @@
 uid: verner.jaroslav
 name: Jaroslav Verner
 category:
+  - zastupitele
 ordpms: 
 ordzas: 
 img: people/verner-jaroslav.jpg
