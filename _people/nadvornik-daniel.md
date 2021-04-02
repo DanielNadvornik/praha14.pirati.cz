@@ -1,5 +1,5 @@
 ---
-uid: daniel.nadvornik
+uid: nadvornik.daniel
 name: Daniel Nádvorník
 category:
   - pms
