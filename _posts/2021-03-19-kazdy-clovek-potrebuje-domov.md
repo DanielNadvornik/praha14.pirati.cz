@@ -2,10 +2,10 @@
 title: Každý člověk potřebuje domov
 author: Daniel Nádvorník 
 authorId: nadvornik.daniel
-image: posts/2021-03-19-uz-je-na-radnici-otevreno.jpg
+image: posts/rozhovor-o-zabydlovani.jpg
 tags: 
- - Digitalizace
- - Transparentnost
+ - Bydlení
+ - Dostupné bydlení
 ---
 
 ## Nájemní byt je pro sociálně vyloučené rodiny či jednotlivce jedinou začít normálně žít

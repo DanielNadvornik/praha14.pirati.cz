@@ -2,10 +2,10 @@
 title: Děláme bydlení dostupnějším
 author: Michal Prager
 authorId: prager.michal
-image: posts/2021-03-19-uz-je-na-radnici-otevreno.jpg
+image: posts/delame-bydleni-dostupnejsi.jpg
 tags: 
- - Digitalizace
- - Transparentnost
+ - Bydlení
+ - Dostupné bydlení
 ---
 
 

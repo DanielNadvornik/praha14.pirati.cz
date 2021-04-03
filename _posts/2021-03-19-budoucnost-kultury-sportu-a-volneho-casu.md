@@ -2,10 +2,11 @@
 title: Budoucnost kultury, sportu a volného času v Praze 14
 author: Jaroslav Verner
 authorId: verner.jaroslav
-image: posts/2021-03-19-uz-je-na-radnici-otevreno.jpg
+image: posts/budoucnost-kultury.jpg
 tags: 
- - Digitalizace
- - Transparentnost
+ - Kultura
+ - Sport
+ - Volný čas
 ---
 
 Naše městská část je v současnosti často vnímána jako sídlištní noclehárna, kde nic není a zdejší obyvatelé musí za volnočasovým vyžitím vyrazit někam jinam. Tento narativ však již dlouho není aktuální, protože se naše městská část rozvíjí jak po kulturní, tak i po sportovní a volnočasové stránce. 
