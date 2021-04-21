@@ -15,8 +15,6 @@ main:
     name: Aktuality
   - link: /lide/
     name: Lidé
-  - link: /program/
-    name: Program
   - link: /kontakt/
     name: Kontakt
 
