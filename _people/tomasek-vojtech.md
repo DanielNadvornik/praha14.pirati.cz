@@ -11,12 +11,14 @@ heroImg: kyjsky-rybnik.jpg
 profession: 
 partyUid: pirati
 description: předseda MS Praha 14
-teamDescription:předseda MS Praha 14
+teamDescription:
+
 mail:
   - vojtech.tomasek@pirati.cz
 profiles:
-  facebook: 
+  facebook: https://www.facebook.com/vojtech.w.tomasek
 funkce:
+  - předseda Piráti Praha 14
 
 ---
 
