@@ -3,14 +3,15 @@ uid: verner.jaroslav
 name: Jaroslav Verner
 category:
   - zastupitele
-ordpms: 
+  - pms
+ordpms: 2
 ordzas: 
 img: people/verner-jaroslav.jpg
 heroImg: kyjsky-rybnik.jpg
 profession: 
 partyUid: pirati
-description: 
-teamDescription:
+description: místopředseda MS Praha 14
+teamDescription: místopředseda MS Praha 14
 mail:
   - jaroslav.verner@pirati.cz
 profiles:
