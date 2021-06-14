@@ -1,7 +1,7 @@
 ---
 layout: contacts
 title: Kontaktní informace
-description: Pirátská strana na Praza 14 je otevřená a ráda přivítá nové členy, dobrovolníky a odpoví na vaše dotazy
+description: Pirátská strana na Praze 14 je otevřená a ráda přivítá nové členy, dobrovolníky a odpoví na vaše dotazy
 keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
 noresidence: yes
 contactPersons:
@@ -20,4 +20,4 @@ contactPersons:
 <h4>Podpořte nás!</h4>
 - Finanční dary na podporu našeho fungování můžete posílat na [dary.pirati.cz](https://dary.pirati.cz/podpor-kraj/praha/adresne-dary-pro-ks-praha/), kde vyberete Jiný účel: MS Praha 8 (nebo specifický symbol 110108).
 
-- *Odesláním příspěvku s osobními údaji uzavíráte s Českou pirátskou stranou darovací smlouvu a udělujete jí souhlas ke zpracování osobních údajů v souladu se zákonem č. 101/2000 Sb. o ochraně osobních údajů za účelem zpracování a přiznání daru a zasílání informací o Pirátské straně, a to i elektronickými prostředky. Vámi uvedená data budou podle zákona 424/1991 Sb. o sdružování v politických stranách a hnutích součástí výroční finanční zprávy politické strany (částka, jméno, příjmení a datum narození nebo název a identifikační číslo právnické osoby).*
+- *Odesláním příspěvku s osobními údaji uzavíráte s Českou pirátskou stranou darovací smlouvu a udělujete jí souhlas ke zpracování osobních údajů v souladu se zákonem č. 101/2000 Sb. o ochraně osobních údajů za účelem zpracování a přiznání daru a zasílání informací o Pirátské straně, a to i elektronickými prostředky. Vámi uvedená data budou podle zákona 424/1991 Sb. o sdružování v politických stranách a hnutích součástí výroční finanční zprávy politické strany (částka, jméno, příjmení a datum narození nebo název a identifikační číslo právnické osoby).***
