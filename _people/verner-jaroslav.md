@@ -4,6 +4,7 @@ name: Jaroslav Verner
 category:
   - zastupitele
   - pms
+  - clenove
 ordpms: 2
 ordzas: 
 img: people/verner-jaroslav.jpg
