@@ -4,6 +4,7 @@ name: Vojtěch Tomášek
 category:
   - pms
   - zastupitele
+  - clenove
 ordpms: 1
 ordzas: 
 img: people/tomasek-vojtech.jpg
