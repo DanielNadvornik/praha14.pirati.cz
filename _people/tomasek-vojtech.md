@@ -3,14 +3,15 @@ uid: tomasek.vojtech
 name: Vojtěch Tomášek
 category:
   - zastupitele
-ordpms: 
+  - pms
+ordpms: 1
 ordzas: 
 img: people/tomasek-vojtech.jpg
 heroImg: kyjsky-rybnik.jpg
 profession: 
 partyUid: pirati
-description: 
-teamDescription:
+description: předseda MS Praha 14
+teamDescription:předseda MS Praha 14
 mail:
   - vojtech.tomasek@pirati.cz
 profiles:
