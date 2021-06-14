@@ -20,7 +20,7 @@ V rámci sportu pak v současnosti řešíme možnost vzniku tréninkového cent
 
 Nakonec je vhodné uvést i několik projektů, na kterých aktuálně pracujeme a jsou hudbou blízké budoucnosti. Takovým projektem je například umisťování soch do veřejného prostoru, díky kterému dojde k oživení veřejných prostranství a vylepší vizuální ráz městské části, dalším takovým projektem je i mural art, kterým chceme ozvláštnit v této chvíli jednotný vzhled protihlukových stěn. 
 
-Jaroslav Verner, zastupitel pro kulturu a volný čas MČ Praha 14 za Piráty
+Jaroslav Verner, zastupitel pro kulturu a volný čas MČ Praha 14 za Piráty.
 
 
 
