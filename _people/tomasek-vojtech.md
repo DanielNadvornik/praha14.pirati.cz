@@ -2,8 +2,8 @@
 uid: tomasek.vojtech
 name: Vojtěch Tomášek
 category:
-  - zastupitele
   - pms
+  - zastupitele
 ordpms: 1
 ordzas: 
 img: people/tomasek-vojtech.jpg
