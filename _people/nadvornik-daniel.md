@@ -4,7 +4,7 @@ name: Daniel Nádvorník
 category:
   - pms
   - zastupitele
-ordpms: 
+ordpms: 2
 ordzas: 
 img: people/nadvornik-daniel.jpg
 heroImg: kyjsky-rybnik.jpg
