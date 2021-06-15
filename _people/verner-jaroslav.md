@@ -16,7 +16,7 @@ teamDescription: místopředseda MS Praha 14
 mail:
   - jaroslav.verner@pirati.cz
 profiles:
-  facebook: 
+  facebook: https://www.facebook.com/jaroslav.verner.12
 funkce:
 
 ---
