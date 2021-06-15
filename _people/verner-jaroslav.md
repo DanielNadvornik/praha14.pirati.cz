@@ -2,8 +2,8 @@
 uid: verner.jaroslav
 name: Jaroslav Verner
 category:
-  - zastupitele
   - pms
+  - zastupitele
   - clenove
 ordpms: 2
 ordzas: 
