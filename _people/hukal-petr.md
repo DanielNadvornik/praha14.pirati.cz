@@ -16,7 +16,7 @@ teamDescription:
 mail:
   - petr.hukal@pirati.cz
 profiles:
-  facebook: 
+  facebook: https://www.facebook.com/petr.hukal
 funkce:
 
 ---
