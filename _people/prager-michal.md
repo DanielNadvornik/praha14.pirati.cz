@@ -16,7 +16,7 @@ teamDescription:
 mail:
   - michal.prager@pirati.cz
 profiles:
-  facebook: 
+  facebook: https://www.facebook.com/michal.prager
 funkce:
 
 ---
