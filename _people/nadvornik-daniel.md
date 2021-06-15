@@ -19,9 +19,7 @@ mail:
 profiles:
   facebook: https://www.facebook.com/daniel.nadvornik/
 funkce:
-  - místopředseda Piráti Praha 14
-  - <a href=https://www.praha14.cz/samosprava/clen-samospravy-funkce/clen-zastupitelstva/">zastupitel</a>
-  - Předseda <a href="https://www.praha14.cz/samosprava/komise-rady/">Komise pro Digitalizaci, transparentní a otevřenou radnici</a>
+
 ---
 
 Daniel Nádvorník (* 2. února 1998) je členem Pirátů a zastupitel na Praze 14. Daniel pochází z Prahy, konkrétně z Černého Mostu, na kterém v současné a dohledné době žije a bude žít.
