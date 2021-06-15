@@ -5,8 +5,8 @@ category:
   - zastupitele
   - pms
   - clenove
-ordpms: 1
-ordzas: 
+ordpms: 
+ordzas: 1
 img: people/verner-jaroslav.jpg
 heroImg: kyjsky-rybnik.jpg
 profession: 
