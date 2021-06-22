@@ -1,7 +1,7 @@
 ---
 title: Koalice na Praze 14 skončila 
-author: Jaroslav Verner
-authorId: verner.jaroslav
+author: Redakce
+authorId: 
 image: posts/koalice-skoncila.jpg
 tags: 
  - Program
