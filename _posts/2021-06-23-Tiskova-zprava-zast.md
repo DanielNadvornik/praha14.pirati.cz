@@ -1,5 +1,5 @@
 ---
-title: TK: Rada odvolána, Zastupitelstvo bylo přerušeno 
+title: Tisková zpráva - Rada odvolána, Zastupitelstvo bylo přerušeno 
 author: Redakce
 authorId: 
 image: posts/koalice-skoncila.jpg
