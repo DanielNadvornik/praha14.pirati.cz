@@ -18,7 +18,6 @@ Piráti, kteří měli v dosavadní Radě dva posty, chtějí i nadále spolupra
 
 Piráti, Spojené síly pro pro Prahu 14 a ODS podepsali koaliční smlouvu 31. 10. 2018. Piráti v Radě zodpovídali za oblasti dopravy a dopravních investic, ochranu veřejného prostoru proti vandalství, sociální péči, zdravotnictví a komunitní plánování sociálních služeb.
 
----------------------------------------------------------------------------------------------------------------------
 **Kontakt pro média:**
 Jaroslav Verner, předseda zastupitelského klubu Pirátů MČ Praha 14, tel: +420 605 908 164; mail: jaroslav.verner@pirati.cz
 Michal Polák, media manager KS Praha, tel: +420 608 517 127; mail: michal.polak@pirati.cz
