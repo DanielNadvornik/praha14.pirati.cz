@@ -2,7 +2,7 @@
 title: Tisková zpráva - Rada odvolána, Zastupitelstvo bylo přerušeno 
 author: Redakce
 authorId: 
-image: posts/tk-zprava-konec.jpg
+image: posts/tk-rada-konec.jpg
 tags: 
  - Zastupitelstvo
  - Koalice
