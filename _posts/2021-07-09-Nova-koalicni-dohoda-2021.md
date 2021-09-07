@@ -13,21 +13,31 @@ V tomto článku najdete téměř plné znění nové koaliční dohody, která 
 
 
 
-Dohoda o spolupráci v Zastupitelstvu Městské části Praha 14 
-pro období 2021–2022
 
-Preambule
+
+
+
+
+
+
+
+
+
+**Dohoda o spolupráci v Zastupitelstvu Městské části Praha 14 
+pro období 2021–2022**
+
+**Preambule**
 Zastoupení politických subjektů – TOP 09, Občanská demokratická strana (ODS) a Česká pirátská strana (Piráti) působících na MČ Praha 14, dále jen: „koaliční partneři“, vědomi si své odpovědnosti za další rozvoj MČ Praha 14 a odpovědnosti vůči občanům Prahy 14 se zavazují, že budou Městskou část Praha 14 spravovat s důrazem na zachování demokratických zásad samosprávy v duchu Ústavy a zákonů České republiky. Transparentnost všech rozhodnutí koaličních partnerů vč. přenechání kontrolních funkcí opozičním stranám je jejich prioritou. Koaliční partneři budou spravovat městskou část na principech právního státu, fiskální, sociální a ekologické odpovědnosti.
 Pro vzájemné úsilí spravovat Městskou část Praha 14 s ohledem na potřeby a zájmy jejich občanů a realizovat navržený program rozvoje Městské části s prioritami do konce volebního období, a s dlouhodobými strategickými cíli pro příští desetiletí, uzavírají koaliční partneři tuto dohodu:
 
-Část I. 
+**Část I.**
 Programová východiska 
 Koaliční partneři se vzájemně respektují jako suverénní politické strany s jasně deklarovanými hodnotami a čitelným politickým programem, jakkoli vychází z odlišných ideových východisek.
 Výsledek voleb do Zastupitelstva městské části Prahy 14, předchozí koaliční spolupráce a následná jednání ukázaly, že není možné utvořit jinou funkční koalici než koalici složenou z více stran s odlišnými programovými prioritami. Koaliční partneři tímto dokumentem deklarují možnost základní programové shody, kdy tato dohoda kompromisním způsobem odráží zásadní programové priority nejen účastníků této dohody, ale i dalších stran zastoupených v zastupitelstvu MČ.
 Koaliční partneři budou po celé své funkční období prosazovat politiku otevřenosti, maximální informovanosti o své činnosti a spolupráce se všemi demokratickými stranami v zastupitelstvu městské části Praha 14. Nedílnou součástí této koaliční smlouvy bude společné programové prohlášení, které se stane programovým prohlášením Rady Městské části Praha 14 pro období 2021–2022, a které bude společně zpracováno nejpozději do 30 dní po zasedání Zastupitelstva Městské části Praha 14, kde bude rada zvolena.
 Programové prohlášení bude obsahovat základní programové teze, které budou dále rozvíjeny a dopracovávány k naplňování jednotlivých směrů a cílů rozvoje Prahy 14. Programové prohlášení bude vyjadřovat priority dle přílohy č.1 této dohody.
 
-Část II. 
+**Část II.**
 Principy spolupráce 
 Koaliční partneři staví své vztahy na vzájemném respektu, politické rovnosti
 a konsensuální spolupráci.
@@ -35,7 +45,7 @@ Koaliční partneři se dále dohodli, že mezi sebou budou udržovat korektní 
 a zavazují se, že po dobu platnosti této dohody budou jejich zástupci v Zastupitelstvu Městské části Praha 14 vždy jednat a rozhodovat po vzájemné dohodě a v souladu se vzájemně schváleným postupem a zdrží se jakýchkoliv aktivit poškozujících druhé strany. Koaliční partneři se dále dohodli, že před každým jednáním Zastupitelstva Městské části Praha 14 se sejdou a projednají společný postup.
 Za koaliční partnery jednají zejména příslušný nejvýše postavený uvolněný člen Rady a předseda příslušného klubu zastupitelů. K jednání může kterýkoliv partner, se souhlasem ostatních, přizvat hosty.
 
-Část III. 
+**Část III.**
 Orgány Rady a Zastupitelstva Městské části Praha 14 
 Při volbě členů Rady MČ obsadí: 
 TOP 09 a ODS po vzájemné dohodě každý vždy jeden nebo druhý blok funkcí:
@@ -48,7 +58,7 @@ Konkrétní seznam personálního obsazení funkcí dle bodu 1 a oblastí jejich
 
 V případě, že z funkce někdo odstoupí, nebo bude odvolán, bude tyto funkce i nadále obsazovat ta politická strana, která funkci uvolnila, pokud se strany nedohodnou jinak.
 
-Část IV. 
+**Část IV.**
 Procedurální část 
 Smluvní strany po zasedání Zastupitelstva Prahy 14, kde bude zvolena Rada zveřejní tuto dohodu v plném rozsahu.
 Smluvní strany budou po celé funkční období uplatňovat maximální otevřenost vůči sdělovacím prostředkům a všem obyvatelům Městské části Praha 14.
@@ -59,10 +69,10 @@ Veškeré změny této dohody mohou být učiněny pouze písemnou formou, prost
 Tato dohoda nabývá platnosti a účinnosti dnem jejího podpisu všemi zastupiteli koaličních partnerů, a je závazná a platná do konce volebního období Zastupitelstva Městské části Praha 14, resp. do doby konání příštích komunálních voleb do Zastupitelstva Městské části Praha 14.
 
 
-Programové priority
+**Programové priority**
 
 
-Územní rozvoj a životní prostředí 
+**Územní rozvoj a životní prostředí **
 stabilizace rozvojových oblastí Hutě, Kyje (oblast Broumarská sever/jih), Černý Most V., Horní Lada
 zásadní nesouhlas s kontejnerovým překladištěm Malešice
 zásadní nesouhlas s kompostárnou a areálem na zpracování dřeva v blízkosti obytné zástavby – Jahodnice
@@ -80,7 +90,7 @@ převod správy veřejné zeleně od magistrátu na městskou část společně 
 prověření vhodnosti umístění, kapacit a svozového režimu nádob na tříděný odpad ve spolupráci se svozovou firmou
 
 
-Nakládání s majetkem a bytovým fondem
+**Nakládání s majetkem a bytovým fondem**
 snaha o převod bytů hlavního města Prahy, dislokovaných na území městské části, do svěřené správy městské části
 pokračování v nabídce bytů k odprodeji oprávněným nájemníkům, kromě bytů služebních a sociálních. Nájemníkům, kteří o odkup neprojeví zájem, bude garantováno zachování nájemního bydlení 
 odprodej bude realizován za podmínky použití výnosu výhradně na konkrétní investice do majetku MČ
@@ -90,8 +100,7 @@ iniciace jednání o převodu areálu UNIP na MČ Praha 14
 výstavba polyfunkčního objektu na pozemku svěřeném MČ u metra Černý Most
 
 
-
-Školství 
+**Školství**
 vytváření podmínek pro zvyšování kvality vzdělávání v MŠ a ZŠ, jejichž zřizovatelem je MČ Praha 14
 zřízení MŠ v lokalitě Hutě
 prověření možnosti a podpoření zřízení ZŠ v lokalitách Jahodnice a Hutě
@@ -102,7 +111,7 @@ prověření možnosti vybudování bezbariérových přístupů v MŠ a ZŠ
 zavedení elektronických přihlášek do MŠ a ZŠ v návaznosti na postup HMP 
 
 
-Sociální politika a zdravotnictví 
+**Sociální politika a zdravotnictví**
 rekonstrukce a navýšení kapacit domova pro seniory
 zachování stávajících grantových programů, systému Prostupného bydlení, systému pomoci nájemníkům v dočasné tísni a sociálního podniku SP Černý Most, s. r. o.
 zvýšení alokované částky na zajištění sociálních služeb o 1,5 milionu
@@ -118,7 +127,7 @@ podpora aktivního stáří formou nabídky volnočasových, klubových a spole�
 implementace Koncepce sociálního bydlení 
 
 
-Doprava a dopravní infrastruktura 
+**Doprava a dopravní infrastruktura**
 omezení tranzitu přes Prahu 14, podpora dostavby Městského i Pražského okruhu a další etapy Vysočanské radiály, omezení negativních vlivů dopravy na obyvatele Prahy 14
 podpora mimoúrovňových křížení Kbelské ulice v Hloubětíně pouze ve variantě těžkého zakrytí, a ne jako náhrada Městského okruhu
 podpora výstavby železničních zastávek
@@ -137,7 +146,7 @@ redukce zbytného dopravního značení
 převod správy komunikací od magistrátu na městské části společně s odpovídajícími financemi
 
 
-Bezpečnost
+**Bezpečnost**
 zvýšení bezpečnosti a pocitu bezpečí obyvatel ve spolupráci s MP a PČR 
 kultivace veřejného prostoru s cílem likvidace míst potencionálního páchání trestné činnosti
 pokračování v realizaci programu primární prevence a prevence rizikového chování na ZŠ
@@ -146,7 +155,7 @@ podpora zvýšení počtu strážníků v ulicích
 realizace antisprejerského programu a programu pro boj s vandalismem
 
 
-Kultura, sport, volný čas
+**Kultura, sport, volný čas**
 stabilizace a rozvoj komunitních a kulturních aktivit v rámci příspěvkové organizace Praha 14 kulturní
 podpora společenských akcí typu koncerty, výstavy, venkovní akce 
 další rozvoj sportovišť, dětských hřišť a volnočasových ploch dle schválené koncepce
@@ -156,7 +165,7 @@ pokračování v instalaci pokročilých prvků na dětská hřiště
 vybudování biotopového koupaliště na břehu Kyjského rybníka
 
 
-MA21, Komunikace, podpora podnikání
+**MA21, Komunikace, podpora podnikání**
 rozvoj činností v rámci Místní Agendy 21
 zvyšování míry zapojení veřejnosti do rozhodovacích procesů, pokračování ve veřejných projednáváních s občany
 pořádání osvětových kampaní a akcí
@@ -167,7 +176,7 @@ zprovoznění mobilní aplikace pro poskytování lokálně závislých informac
 rozvoj spolupráce s podnikatelskými subjekty
 
 
-Ekonomika a rozpočet, odpovědné a transparentní hospodaření a řízení
+**Ekonomika a rozpočet, odpovědné a transparentní hospodaření a řízení**
 realizace odpovědného a transparentního hospodaření a finančního řízení MČ Praha 14
 účelné a hospodárné nakládání s finančními prostředky a zdroji MČ Praha 14
 zajištění čerpání finančních prostředků z dotačních programů ministerstev, rozpočtu hl. m. Prahy a strukturálních fondů EU
@@ -185,11 +194,11 @@ zadávací dokumentace k veřejným zakázkám budou k dispozici pro veřejné k
 na pozice ředitelů a vedoucích orgánů příspěvkových organizací městské části budeme vypisovat otevřená výběrová řízení
 provedení revize směrnice o zadávání veřejných zakázek s inspirací od vítězů hodnocení zIndex
 
-Smart Cities
+**Smart Cities**
 proaktivní přistup k trendům Smart Cities a snaha o jejich efektivní aplikaci v oblastech, kde občanům přinesou vyšší komfort, bezpečnost nebo úsporu energií
 aktivní podpora využívání e-občanek pro komunikaci s úřadem
 
-Další investiční priority
+**Další investiční priority**
 Strany deklarují tyto investiční priority, které budou prosazovat směrem k hlavnímu městu Praze:
 
 dokončení revitalizace veřejných ploch u metra Hloubětín
