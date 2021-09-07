@@ -9,17 +9,7 @@ tags:
  - Koalice
 ---
 
-V tomto článku najdete téměř plné znění nové koaliční dohody, která odráží programové priority současné koalice:
-
-
-
-
-
-
-
-
-
-
+V tomto článku najdete téměř plné znění nové koaliční dohody, která odráží programové priority současné koalice
 
 
 
@@ -72,7 +62,7 @@ Tato dohoda nabývá platnosti a účinnosti dnem jejího podpisu všemi zastupi
 **Programové priority**
 
 
-**Územní rozvoj a životní prostředí **
+**Územní rozvoj a životní prostředí**
 stabilizace rozvojových oblastí Hutě, Kyje (oblast Broumarská sever/jih), Černý Most V., Horní Lada
 zásadní nesouhlas s kontejnerovým překladištěm Malešice
 zásadní nesouhlas s kompostárnou a areálem na zpracování dřeva v blízkosti obytné zástavby – Jahodnice
