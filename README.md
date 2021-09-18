@@ -1,1 +1,1 @@
-# frenstat.pirati.cz
+# praha14.pirati.cz
