@@ -3,7 +3,6 @@ uid: tomasek.vojtech
 name: Vojtěch Tomášek
 category:
   - clenove
-ordpms: 1
 ordzas: 
 img: people/tomasek-vojtech.jpg
 heroImg: kyjsky-rybnik.jpg
