@@ -5,7 +5,7 @@ category:
   - pms
   - zastupitele
   - clenove
-ordpms: 2
+ordpms: 3
 ordzas: 
 img: people/nadvornik-daniel.jpg
 heroImg: kyjsky-rybnik.jpg
