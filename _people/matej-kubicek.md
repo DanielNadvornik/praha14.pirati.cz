@@ -4,7 +4,7 @@ name: Matěj Kubíček
 category:
   - clenove
   - pms
-ordpms: 2
+ordpms: 1
 ordzas: 
 img: people/kubicek-matej.jpg
 heroImg: kyjsky-rybnik.jpg
