@@ -2,7 +2,6 @@
 uid: tomasek.vojtech
 name: Vojtěch Tomášek
 category:
-  - pms
   - clenove
 ordpms: 1
 ordzas: 
