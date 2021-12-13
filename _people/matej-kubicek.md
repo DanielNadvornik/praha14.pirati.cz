@@ -3,6 +3,7 @@ uid: kubicek.matej
 name: Matěj Kubíček
 category:
   - clenove
+  - pms
 ordpms: 2
 ordzas: 
 img: people/kubicek-matej.jpg
