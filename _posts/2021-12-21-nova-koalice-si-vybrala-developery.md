@@ -1,7 +1,7 @@
 ---
 title: 'Tisková zpráva: Nová koalice v čele s ODS si vybrala místo občanů developery'
-author: Daniel Nádvorník
-authorId: nadvornik.daniel
+author: Redakce
+authorId:
 image: posts/nerusit.jpg 
 tags: 
  - Nerušit
@@ -18,4 +18,4 @@ Tyto materiály se týkaly dvou plánovaných developerských staveb na území 
 Nejenže tyto materiály nezískaly podporu v Radě, což je obvykle zásadní předpoklad pro postoupení k hlasování v zastupitelstvu, ale tyto materiály také nezískaly podporu v odborných Komisích a nebyly projednány s veřejností. 
 Jinými slovy, ODS v čele se starostou Zajacem dělá všechno pro to, aby tyto materiály prošly, i za cenu tři roky úspěšně fungující koalice, nesouhlasu odborníků a záměrné nevědomosti místních občanů.
 
-Třešničkou na dortu byl na začátku jednání návrh zastupitele Kouklíka (KDU-ČSL/STAN), který bez jakéhokoliv opodstatnění navrhl s okamžitou platností zrušit živý přenos ze zastupitelstva. Takový návrh prošel a nová koalice svou první iniciativou fakticky znepřístupnila jednání zastupitelstva veřejnosti.
+Třešničkou na dortu byl na začátku jednání návrh zastupitele Kouklíka (KDU-ČSL/STAN), který bez jakéhokoliv opodstatnění navrhl s okamžitou platností zrušit živý přenos ze zastupitelstva. Takový návrh prošel a nová koalice svou historicky první aktivitou fakticky znepřístupnila jednání zastupitelstva veřejnosti.
