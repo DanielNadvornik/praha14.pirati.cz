@@ -4,7 +4,8 @@ author: Daniel Nádvorník
 authorId: nadvornik.daniel
 image: posts/nerusit.jpg 
 tags: 
- - Nerušit, vládneme
+ - Nerušit
+ - Vládneme
  - Transparentnost
 ---
 
