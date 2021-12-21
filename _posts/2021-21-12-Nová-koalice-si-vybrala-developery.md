@@ -1,8 +1,11 @@
 ---
 title: Tisková zpráva: Nová koalice v čele s ODS si vybrala místo občanů developery
 author: Daniel Nádvorník
-image: assets/img/articles/2020/nerusit.jpg
-tags: Nerušit, vládneme, transparentnost
+authorId: nadvornik.daniel
+image: posts/nerusit.jpg 
+tags: 
+ - Nerušit, vládneme
+ - Transparentnost
 ---
 
 Na úterním jednání zastupitelstva skončila koalice ve složení Piráti, TOP09 a ODS. 
