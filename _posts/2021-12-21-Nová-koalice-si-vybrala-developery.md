@@ -6,6 +6,7 @@ image: posts/nerusit.jpg
 tags: 
  - Nerušit
  - Vládneme
+ - Veřejnost
  - Transparentnost
 ---
 
