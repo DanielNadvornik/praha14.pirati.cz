@@ -1,6 +1,6 @@
 ---
 title: Tisková zpráva: Nová koalice v čele s ODS si vybrala místo občanů developery
-author: Daniel Nádvorník
+author: Redakce
 image: assets/img/articles/2020/nerusit.jpg
 tags: Nerušit, vládneme, transparentnost
 ---
