@@ -1,5 +1,5 @@
 ---
-title: TK:Nová koalice v čele s ODS si vybrala developery místo občanů
+title: Nová koalice v čele s ODS si vybrala developery místo občanů
 author: Redakce
 authorId: nadvornik.daniel
 image: posts/nerusit.jpg
