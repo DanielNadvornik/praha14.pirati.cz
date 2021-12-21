@@ -2,7 +2,7 @@
 title: TK:Nová koalice v čele s ODS si vybrala developery místo občanů
 author: Redakce
 authorId: nadvornik.daniel
-image: posts/nerusit.png 
+image: posts/nerusit.jpg
 tags: 
  - Nerušit 
  - Vládneme
