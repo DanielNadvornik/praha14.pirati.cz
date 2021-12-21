@@ -10,6 +10,7 @@ tags:
  - Transparentnost
 ---
 
+
 Na úterním jednání zastupitelstva skončila koalice ve složení Piráti, TOP09 a ODS. 
 Zásadním důvodem byl nesouhlas TOP09 a Pirátů se dvěma spornými materiály, které starosta Zajac (ODS) předložil na Radu městské části k začátku prosince. 
 Tyto materiály se týkaly dvou plánovaných developerských staveb na území Prahy 14, konkrétně v ulici Broumarská-Jih (vedle Kyjského rybníka) a v ulici Klánovická (naproti hloubětínskému bazénu). 
