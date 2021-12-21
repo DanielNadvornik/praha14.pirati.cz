@@ -2,7 +2,7 @@
 title: Tisková zpráva: Nová koalice v čele s ODS si vybrala místo občanů developery
 author: Místní sdružení
 image: assets/img/articles/2020/nerusit.jpg
-tags: [Nerušit-vládneme, Transparentnost]
+tags: Nerušit/vládneme, transparentnost
 ---
 
 Na úterním jednání zastupitelstva skončila koalice ve složení Piráti, TOP09 a ODS. Zásadním důvodem byl nesouhlas TOP09 a Pirátů se dvěma spornými materiály, které starosta Zajac (ODS) předložil na Radu městské části k začátku prosince. Tyto materiály se týkaly dvou plánovaných developerských staveb na území Prahy 14, konkrétně v ulici Broumarská-Jih (vedle Kyjského rybníka) a v ulici Klánovická (naproti hloubětínskému bazénu). Nejenže tyto materiály nezískaly podporu v Radě, což je obvykle zásadní předpoklad pro postoupení k hlasování v zastupitelstvu, ale tyto materiály také nezískaly podporu v odborných Komisích a nebyly projednány s veřejností. Jinými slovy, ODS v čele se starostou Zajacem dělá všechno pro to, aby tyto materiály prošly, i za cenu tři roky úspěšně fungující koalice, nesouhlasu odborníků a záměrné nevědomosti místních občanů.
