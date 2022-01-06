@@ -2,6 +2,7 @@
 uid: tomasek.vojtech
 name: Vojtěch Tomášek
 category:
+  - zastupitele
   - clenove
 ordzas: 
 img: people/tomasek-vojtech.jpg
