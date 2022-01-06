@@ -2,7 +2,6 @@
 uid: prager.michal
 name: Bc. Michal Prager, MBA
 category:
-  - zastupitele
   - clenove
 ordpms: 
 ordzas: 
