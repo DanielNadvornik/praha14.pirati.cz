@@ -3,7 +3,6 @@ uid: kubicek.matej
 name: Matěj Kubíček
 category:
   - pms
-  - zastupitele
   - clenove
 ordpms: 1
 ordzas: 
