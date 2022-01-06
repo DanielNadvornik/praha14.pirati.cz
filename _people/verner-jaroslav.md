@@ -12,7 +12,8 @@ heroImg: kyjsky-rybnik.jpg
 profession: 
 partyUid: pirati
 description: místopředseda MS Praha 14
-teamDescription: místopředseda MS Praha 14
+teamDescription: 
+  zastupitele: zastupitel
 mail:
   - jaroslav.verner@pirati.cz
 profiles:
