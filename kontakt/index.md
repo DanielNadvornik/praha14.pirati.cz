@@ -5,7 +5,7 @@ description: Pirátská strana na Praze 14 je otevřená a ráda přivítá nov�
 keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
 noresidence: yes
 contactPersons:
-  - tomasek.vojtech
+  - kubicek.matej
 ---
  <h1>Přidejte se k nám</h1>
 
