@@ -14,7 +14,6 @@ description:
 teamDescription:
   zastupitele: zastupitel
 mail:
-  - petr.hukal@pirati.cz
 profiles:
   facebook: https://www.facebook.com/petr.hukal
 funkce:
