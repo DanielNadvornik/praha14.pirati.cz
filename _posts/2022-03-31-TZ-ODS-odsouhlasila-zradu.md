@@ -9,8 +9,6 @@ tags:
  - Hloubětín
 ---
 
-
-tisková zpráva
 Vládnoucí koalice vedená ODS odsouhlasila zradu na obyvatelích Hloubětína, o výstavbě v Klánovické se s lidmi vůbec nebavila
 
 30. března 2022, Praha – Koalice pod vedením ODS na úterním zasedání zastupitelstva MČ Praha 14 těsně prohlasovala podpis směnné smlouvy s developerem Central Group o výstavbě v Klánovické ulici. Piráti s touto zradou obyvatel Hloubětína nesouhlasí, městská část tak ztratila veškerou kontrolu nad podobou výstavby. Koalice navíc obešla standardní postupy předcházející schválení a zcela z projektu vyřadila hlas veřejnosti. 
