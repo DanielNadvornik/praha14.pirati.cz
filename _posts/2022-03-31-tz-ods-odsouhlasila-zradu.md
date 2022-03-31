@@ -2,7 +2,7 @@
 title: Vládnoucí koalice vedená ODS odsouhlasila zradu na obyvatelích Hloubětína, o výstavbě v Klánovické se s lidmi vůbec nebavila
 author: Redakce
 authorId: 
-image: posts/klanovicka.jpg
+image: posts/klanovicka.jpeg
 tags: 
  - ODS
  - Central Group
